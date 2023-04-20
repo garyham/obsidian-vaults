@@ -1,0 +1,1 @@
+> Called XSS to avoid confusion with Cascading Style Sheets (CSS)

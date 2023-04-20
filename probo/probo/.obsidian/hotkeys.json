@@ -1,0 +1,16 @@
+{
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ]
+}

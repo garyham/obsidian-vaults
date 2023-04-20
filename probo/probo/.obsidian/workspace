@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "4f587a296e4090b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5cedfb5ff8f28b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "auth/liveview.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cb09fe782ffb901",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c4c3e20b5af79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a43afba1f29833f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c6ecaceca1f5feb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "360c221d6408141c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "899333f5755ae8b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0a67f883e3eb95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d2427d576c37ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "auth/liveview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "515efd31b0c6d901",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "auth/liveview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8885decd55c04227",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b32cb6bb914b3c4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "auth/liveview.md"
+              }
+            }
+          },
+          {
+            "id": "1940d2ce487f687a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7d5cedfb5ff8f28b",
+  "lastOpenFiles": [
+    "Authentication.md",
+    "Email Authentication.md",
+    "Multi Factor Authentication.md",
+    "Multi-Tenancy.md",
+    "Social Signin.md",
+    "User.md",
+    "Untitled.md",
+    "auth/authN/Overview.md",
+    "2022-09-29.md",
+    "auth/liveview.md"
+  ]
+}
